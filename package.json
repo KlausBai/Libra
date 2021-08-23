@@ -1,0 +1,17 @@
+{
+  "name": "libra",
+  "version": "1.0.0",
+  "description": "some simple js tools",
+  "main": "index.js",
+  "scripts": {
+    "build":"gulp",
+    "test": "test"
+  },
+  "author": "KlausBai",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^4.3.5"
+  }
+}
